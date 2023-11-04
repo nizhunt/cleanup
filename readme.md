@@ -4,7 +4,7 @@ The script is initiated from the terminal by providing a directory path as a com
 
 > Please exercise caution when running this script, as deleting `node_modules` directories can break dependent projects, and ensure you have backups or a clear understanding of the dependencies in your projects before executing this script.
 
-To make this script executable from anywhere in the terminal, you would need to do the following steps:
+## To make this script executable from anywhere in the terminal, you would need to do the following steps:
 
 1. **Add a Shebang Line**:
    The first line of your script should be a shebang line that tells the system how to execute the script. In this case, it should point to Node.js.
